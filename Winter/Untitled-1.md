@@ -1,4 +1,4 @@
-Core pain: Audit is a 6-month panic exercise because compliance lives in documents, but reality lives in people and scattered systems.
+**Core pain: Audit is a 6-month panic exercise because compliance lives in documents, but reality lives in people and scattered systems.**
 An AI agent that:
 Reads SOPs / policies / compliance rules
 Talks to each department continuously (not once in 6 months)
