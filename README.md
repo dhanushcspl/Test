@@ -208,5 +208,5 @@ For questions, updates, or contributions related to this repository, contact the
 
 ---
 
-**Maintained by:** Project Team  
+**Maintained by:** Documentation Team  
 **Repository Purpose:** Centralized Knowledge Transfer & Documentation Repository
